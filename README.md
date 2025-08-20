@@ -2,7 +2,7 @@
 
 **`Data Science and Machine Learning at FIAP`**
 
-Meu nome é Paulo Medeiros, tenho 19 anos e sou natural de Manaus.
+Meu nome é Paulo Medeiros, tenho 19 anos e atualmente moro em São Paulo - SP.
 Atualmente, estou cursando Data Science na FIAP e me dedicando ao desenvolvimento de habilidades em análise de dados, BI e engenharia de dados, com experiência prática em Python, SQL, Power BI, Machine Learning e projetos aplicados em empresas reais.
 
 Venho construindo meu portfólio com projetos que unem análise estatística, visualização de dados e storytelling, além de desenvolver soluções de previsão e automação de processos. Também tenho me aprofundado em finanças pessoais e investimentos, buscando sempre aplicar raciocínio analítico tanto na vida profissional quanto pessoal.
