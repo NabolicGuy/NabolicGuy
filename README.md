@@ -95,6 +95,22 @@ Venho construindo meu portfólio com projetos que unem análise estatística, vi
 />
 <img
     align="left" 
+    alt="SQL Developer" 
+    title="SQL Developer"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Apache Kafka" 
+    title="Apache Kafka"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
+/>
+<img
+    align="left" 
     alt="Hadoop" 
     title="Hadoop"
     width="30px" 
